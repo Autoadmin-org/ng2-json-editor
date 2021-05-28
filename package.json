@@ -110,8 +110,5 @@
   },
   "bugs": {
     "url": "https://github.com/inspirehep/ng2-json-editor/issues"
-  },
-  "engines": {
-    "node": "10.14.0"
   }
 }
